@@ -10,11 +10,17 @@ public class Student {
     public float diemtongket;
     public void nhapthongtin(){
         Scanner sc=new Scanner(System.in);
+        System.out.print("nhap ten:");
         ten=sc.nextLine();
+        System.out.print("nhap lop:");
         lop=sc.nextLine();
+        System.out.print("nhap msv:");
         msv=sc.nextFloat();
+        System.out.print("nhap diem toan:");
         toan=sc.nextFloat();
+        System.out.print("nhap diem van:");
         van=sc.nextFloat();
+        System.out.print("nhap diem anh:");
         anh=sc.nextFloat();
         diemtongket=(toan+van+anh)/3;
     }
