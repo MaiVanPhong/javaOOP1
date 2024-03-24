@@ -1,3 +1,4 @@
+package baithuchanh1;
 import java.util.Scanner;
 public class phuongtrinhbac1 {
     public static void main(String[] args){

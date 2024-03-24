@@ -1,5 +1,4 @@
-package baithuchanh1.src.person;
-
+package person;
 import java.util.Scanner;
 
 public class Person {

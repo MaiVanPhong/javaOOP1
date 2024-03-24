@@ -1,8 +1,4 @@
-package baithuchanh1.src.person;
-import baithuchanh1.src.person.employee;
-import baithuchanh1.src.person.Person;
-import baithuchanh1.src.person.parttime;
-import baithuchanh1.src.person.fulltime;
+package person;
 
 public class mainps {
     public static void main(String[] args) {
@@ -23,5 +19,8 @@ public class mainps {
         pte.nhapSoNgayLamViec();
         pte.TinhLuong();
         pte.inluongpt();
+        Student st=new Student();
+        st.nhapttsv();
+        st.inttsv();
     }
 }
