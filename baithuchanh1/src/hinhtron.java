@@ -1,4 +1,3 @@
-package baithuchanh1;
 import java.util.Scanner;
 
 public class hinhtron {
