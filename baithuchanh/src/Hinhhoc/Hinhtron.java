@@ -1,8 +1,3 @@
-
-<<<<<<< HEAD
-
-=======
->>>>>>> ca447c04e0b6bfbb57ac5910c439a5647c6eafb0
 import java.util.Scanner;
 
 public class Hinhtron extends Hinhhoc{
