@@ -15,6 +15,6 @@ public class Slide21 {
         System.out.println(colors.get(1));
         System.out.println(colors.contains("orange"));
         System.out.println(colors.size());
-        System.out.println(colors);
+        System.out.println(colors); 
     }
 }
