@@ -1,5 +1,3 @@
-package Chuong4;
-
 import java.util.Scanner;
 import java.util.TreeSet;
 

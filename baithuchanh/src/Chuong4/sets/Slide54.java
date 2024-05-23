@@ -1,8 +1,5 @@
-package Chuong4;
-
 import java.util.HashSet;
 import java.util.Scanner;
-
 public class Slide54 {
     public static void main(String[] args) {
         int number;
