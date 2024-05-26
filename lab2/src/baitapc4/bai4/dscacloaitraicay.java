@@ -12,9 +12,9 @@ public class dscacloaitraicay {
     HashSet<String> traiCayHashSet = new HashSet<>();
     List<String> traicayList = new ArrayList<>();
 
-    traicayList .add("tao");
-    traicayList .add("cam");
-    traicayList .add("le");
+    traicayList.add("tao");
+    traicayList.add("cam");
+    traicayList.add("le");
 
     System.out.println("cac phan tu trong Hashset : ");
     System.out.println(traicayList);
@@ -22,7 +22,7 @@ public class dscacloaitraicay {
     System.out.println("nhap phan tu can them : ");
     Name = sc.nextLine();
     if(!traicayList  .contains(Name)){
-     traicayList  .add(Name); 
+     traicayList.add(Name); 
      System.out.println("them thanh cong! ");
      System.out.println("Cac phan tu trong traicayList   da duoc them : ");
      System.out.println(traicayList  );
